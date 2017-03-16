@@ -1,0 +1,511 @@
+# Sinhalese translation for shutter
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the shutter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: shutter\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-28 17:52+0100\n"
+"PO-Revision-Date: 2013-06-01 20:21+0000\n"
+"Last-Translator: A.K.D.M.P Munasinghe <mpmunasinghe@gmail.com>\n"
+"Language-Team: Sinhalese <si@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-12-23 22:44+0000\n"
+"X-Generator: Launchpad (build 17286)\n"
+
+#: translate_tmp:27
+msgid "Grayscale"
+msgstr "අළුවන් පරිමාණය"
+
+#: translate_tmp:28
+#: translate_tmp:74
+#: translate_tmp:63
+#: translate_tmp:72
+#: translate_tmp:64
+msgid "Effect"
+msgstr "ආචරණය"
+
+#: translate_tmp:29
+msgid "Turn the image into a grayscale image (256 shades)"
+msgstr "මෙම රූපය අළුවන් පරිමාණයට හරවන්න"
+
+#: translate_tmp:27
+msgid "Offset"
+msgstr "ඕෆ්සෙට්"
+
+#: translate_tmp:29
+msgid "Give the picture an offset with itself as background"
+msgstr "රුපයේ පසුබිමට රුපයේ පසුබිමේ ආකාරයට ඕෆ්සෙට් එකක් ලබා දෙන්න"
+
+#: translate_tmp:27
+msgid "Raise Border"
+msgstr "දාරය ඔසවන්න"
+
+#: translate_tmp:29
+msgid "Raise a rectangular 3d-border"
+msgstr "චතුරශ්‍රාකාර ත්‍රිමාණ දාරය ඔසවන්න"
+
+#: translate_tmp:27
+msgid "Soft Edges"
+msgstr "සුමුදු කෙළවර"
+
+#: translate_tmp:29
+msgid "Add soft edges around the image"
+msgstr "රූපය වටා සුමුදු කෙලවරයන් පිහිටන්න"
+
+#: translate_tmp:27
+msgid "Sunk Border"
+msgstr "දාරය අඩු කරන්න"
+
+#: translate_tmp:29
+msgid "Add an inverted 3d border to the image"
+msgstr "පෙරලන ලද ත්‍රිමාණ දාරයක් රූපයට එකතු කරන්න"
+
+#: translate_tmp:27
+msgid "Torned Paper"
+msgstr "ඉරණ ලද පිටුව"
+
+#: translate_tmp:29
+msgid "Add a torn-like border to the image"
+msgstr "ඉරුමක් වගේ පෙනෙන දාරයක් රූපයට යොදන්න"
+
+#: translate_tmp:27
+msgid "Autocrop"
+msgstr "ස්වයංක්‍රීය කප්පාදුව"
+
+#: translate_tmp:28
+#: translate_tmp:49
+msgid "Tool"
+msgstr "මෙවලම"
+
+#: translate_tmp:29
+msgid "Remove empty borders from the image"
+msgstr "රූපයෙන් හිස් දාර ඉවත් කරන්න"
+
+#: translate_tmp:73
+msgid "3D reflection"
+msgstr "ත්‍රිමාණ පරාවර්තනය"
+
+#: translate_tmp:75
+msgid ""
+"Adds a fading reflection below an image and views it in perspective\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Dreflection/index.php"
+msgstr ""
+"රූපයට පහලින් ක්ෂයවෙන ආකාරයේ ප්‍රතිබිම්බයක් යොදා එය පර්යාවලෝකනයක් සහිතව "
+"පෙන්වන්න\n"
+"\n"
+"Fred Weinhaus ගේ ස්ක්‍රිප්ටුවක් පදනම් කර ගනිමිනි\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Dreflection/index.php"
+
+#: translate_tmp:104
+#: translate_tmp:133
+#: translate_tmp:127
+msgid "Rotation:"
+msgstr "භ්‍රමණය"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "Perseptive rotation around left edge of image"
+msgstr "වම් කෙළවර වටා පරයාවලෝකණීය භ්‍රමණය"
+
+#: translate_tmp:122
+msgid "Fade:"
+msgstr "කෙමෙන් ක්ෂයවන"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "Fade percent for mirror image"
+msgstr "කැටපත් රුපය මත කෙමෙන් ක්ෂයවිමේ ප්‍රතිශතය"
+
+#: translate_tmp:140
+msgid "Opacity:"
+msgstr "පාරාන්ධතාව:"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "Opacity percent applied to whole mirror image"
+msgstr "සම්පුර්ණ කැටපත රූපයටම පාරාන්ධතා ප්‍රතිශතය යොදන්න"
+
+#: translate_tmp:158
+msgid "Pef:"
+msgstr "පෙෆ්:"
+
+#: translate_tmp:165
+#: translate_tmp:172
+msgid "Perspective exaggeration factor"
+msgstr "පරයාවලෝකනය තීව්‍ර කිරීමේ සංගුණකය"
+
+#: translate_tmp:176
+msgid "Gap:"
+msgstr "පරතරය:"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid "Gap between image and mirror in pixels"
+msgstr "රුපය සහ කැටපත අතර පික්සල් පරතරය"
+
+#: translate_tmp:194
+#: translate_tmp:176
+msgid "Zoom:"
+msgstr "විශාලණය:"
+
+#: translate_tmp:201
+#: translate_tmp:208
+msgid "Zoom factor for output image"
+msgstr "ප්‍රතිධාන රූපයේ විශාලන සංගුණකය"
+
+#: translate_tmp:212
+#: translate_tmp:236
+#: translate_tmp:165
+#: translate_tmp:194
+msgid "Background color"
+msgstr "පසුබිම් වර්ණය"
+
+#: translate_tmp:217
+#: translate_tmp:241
+#: translate_tmp:170
+#: translate_tmp:199
+msgid "Choose background color"
+msgstr "පසුබිම් වර්ණය තෝරන්න"
+
+#: translate_tmp:423
+#: translate_tmp:459
+#: translate_tmp:363
+#: translate_tmp:399
+#: translate_tmp:259
+#: translate_tmp:328
+#: translate_tmp:257
+#: translate_tmp:314
+#: translate_tmp:315
+#, perl-format
+msgid "Error while executing plugin %s."
+msgstr "%s ප්ලගිනය ක්‍රියාත්මක කිරීමේ දී ඇතිවූ  දෝෂය."
+
+#: translate_tmp:424
+#: translate_tmp:460
+#: translate_tmp:364
+#: translate_tmp:400
+#: translate_tmp:260
+#: translate_tmp:329
+#: translate_tmp:258
+#: translate_tmp:315
+#: translate_tmp:316
+msgid "There was an error executing the plugin."
+msgstr "ප්ලගිනය ක්‍රියාත්මක කිරීමේ දෝෂය."
+
+#: translate_tmp:73
+msgid "3D rotate"
+msgstr "ත්‍රිමාණ භ්‍රමණය"
+
+#: translate_tmp:75
+msgid ""
+"Applies a perspective distortion to an image\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Drotate/index.php"
+msgstr ""
+"රූපයට පර්යාවලෝකනීය විකෘතියක් ඇති කරන්න \n"
+"\n"
+"Fred Weinhaus ගේ ස්ක්‍රිප්ටුවක් පදනම් කර ගනිමිනි\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Drotate/index.php"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "Rotation around image vertical centerline"
+msgstr "සිරස් මද්‍ය රේඛාව වටා රූපයේ භ්‍රමණය"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "Rotation around image horizontal centerline"
+msgstr "තිරස් මද්‍ය රේඛාව වටා රූපයේ භ්‍රමණය"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "Rotation around the image center"
+msgstr "මද්‍ය වටා රූපයේ භ්‍රමණය"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid ""
+"Output zoom factor; where value > 1 means zoom in and < 1 means zoom out"
+msgstr ""
+"ප්‍රතිධාන විශාලන සංගුණකය; අගය > 1 වන විට විශාලනය වැඩිවේ සහ < 1 වන විට "
+"විශාලනය අඩු වේ"
+
+#: translate_tmp:204
+msgid "Auto:"
+msgstr "ස්වයංක්‍රීය:"
+
+#: translate_tmp:226
+#: translate_tmp:233
+msgid ""
+"off - No automatic adjustment\n"
+"\n"
+"c - Center bounding box in output\n"
+"\n"
+"zc - Zoom to fill and center bounding box in output\n"
+"\n"
+"out - Creates an output image of size needed to hold the transformed image"
+msgstr ""
+"off - ස්වයංක්‍රීය සකස්කිරීම් නොමැත \n"
+"\n"
+"c - ප්‍රතිධානය තුල මද්‍ය බන්ධනීය කොටුවක් ඇති කරන්න \n"
+"\n"
+"zc - පිරවුම සදහා විශාලනය සහ ප්‍රතිධානය තුල මද්‍ය බන්ධනීය කොටුව\n"
+"\n"
+"out - පරිවර්තනය වූ රූපයට සරිලන පරිදි ප්‍රතිධාන රූප විශාලත්වයක් සකස් කරයි"
+
+#: translate_tmp:243
+msgid "Sky color"
+msgstr "ආකාශ වර්ණය"
+
+#: translate_tmp:248
+msgid "Choose sky color"
+msgstr "ආකාශ වර්ණය තෝරන්න"
+
+#: translate_tmp:62
+msgid "Barrel Distortion"
+msgstr "බැරල් ආකාර බොදකිරීම"
+
+#: translate_tmp:64
+msgid "Apply a distortion effect to your screenshot"
+msgstr "ඔබේ රාමුජායාරූපයට බොද වූ පෙනුමක් ඇතුලත් කරන්න"
+
+#: translate_tmp:93
+msgid "A:"
+msgstr "A:"
+
+#: translate_tmp:97
+msgid "B:"
+msgstr "B:"
+
+#: translate_tmp:101
+msgid "C:"
+msgstr "C:"
+
+#: translate_tmp:105
+msgid "D:"
+msgstr "D:"
+
+#: translate_tmp:112
+#: translate_tmp:119
+#: translate_tmp:126
+#: translate_tmp:133
+#: translate_tmp:140
+#: translate_tmp:147
+#: translate_tmp:154
+#: translate_tmp:161
+msgid ""
+"The parameter d describes the linear scaling of the image. Using d=1, and "
+"a=b=c=0 leaves the image as it is. Choosing other d-values scales the image "
+"by that amount. a,b and c distort the image. Using negative values shifts "
+"distant points away from the center.\n"
+"\n"
+"Defined by Barrel Correction Distortion, by Helmut Dersch.\n"
+"http://www.all-in-one.ee/~dersch/barrel/barrel.html"
+msgstr ""
+"d  පරාමිතිය මගින් රූපයේ රේඛීය පරිමාණය විස්තර කරයි. d=1, a=b=c=0 රූපය තිබූ "
+"අකාරයෙන්ම පවත්වයි. d සදහා වෙනත් අගයන් තේරීමෙන් රූපය සදහා එයට අනුරූප පරිමාණ "
+"ලබා දෙයි. a,b, සහ c රුපය විකෘති කරයි. ඍන අගයන් භාවිතයෙන් දුරින් පවතින "
+"ලක්ෂ්‍යය මද්‍යයෙන් ඉවතට ගෙන යයි.\n"
+"\n"
+"Helmut Dersch ගේ බැරල් විකෘති නිවැරදි කිරීමේ ක්‍රමය මගින් ප්‍රකාශ කර ඇත.\n"
+"http://www.all-in-one.ee/~dersch/barrel/barrel.html"
+
+#: translate_tmp:73
+msgid "Bordereffects"
+msgstr "මායිම් ආචරණය"
+
+#: translate_tmp:75
+msgid ""
+"Create various dispersion-like effects in the border of an image\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/bordereffects/index.php"
+msgstr ""
+"විවිධ විසිරී ගිය ආකාරයේ පෙනුමක් රූපයේ මායිම වටා ලබා දෙන්න\n"
+"\n"
+"Fred Weinhaus ගේ ස්ක්‍රිප්ටුවක් පදනම් කර ගනිමිනි\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/bordereffects/index.php"
+
+#: translate_tmp:104
+msgid "Size:"
+msgstr "විශාලත්වය:"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "The size or dimension of the border region"
+msgstr "දාර ප්‍රදේශයේ විශාලත්වය හෝ මානය"
+
+#: translate_tmp:122
+msgid "Density:"
+msgstr "ඝනත්වය"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "The frequency of detail in the border"
+msgstr "දාර ලක්ෂණ වල සංඛ්‍යාතය"
+
+#: translate_tmp:140
+msgid "Curviness:"
+msgstr "වක්‍රතාවය"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "The curviness in the border features"
+msgstr "දාර ලක්ෂණ වල වක්‍රතාවය"
+
+#: translate_tmp:158
+msgid "Granularity:"
+msgstr "කනිකකාමිත්වය:"
+
+#: translate_tmp:165
+#: translate_tmp:172
+msgid ""
+"The base grain size or pixelization size used to create the detail in the "
+"border"
+msgstr ""
+"දාරයේ විස්තර ගොඩ නැගීම සදහා අවශ්‍ය ඇටිති විශාලත්වය හෝ පික්සෙල් විශාලත්වය"
+
+#: translate_tmp:176
+msgid "Pad:"
+msgstr "පෑඩය:"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid "The pad size of constant color around the perimeter of the border"
+msgstr "දාර ප්‍රදේශය තුල නියත වර්ණ පෑඩයේ විශාලත්වය"
+
+#: translate_tmp:62
+msgid "Negate"
+msgstr "විරුද්ධ කරන්න"
+
+#: translate_tmp:64
+msgid "Invert the colors of the image"
+msgstr "රුපයේ වර්ණ පෙරළන්න"
+
+#: translate_tmp:101
+msgid "Channel"
+msgstr "නාලිකාව"
+
+#: translate_tmp:62
+msgid "Polaroid"
+msgstr "ආලෝක තරංග සීමා කළ හැකි සියුම් පටලය"
+
+#: translate_tmp:64
+msgid ""
+"Make your screenshot look like a polaroid photo, add a caption, and even "
+"rotate it a little"
+msgstr ""
+"ඔබේ රාමුජායාරූපය ආලෝක තරංග සීමාකළ, වැකියක් එක් කල, මදක් භ්‍රමණය කල එකක් කරන්න"
+
+#: translate_tmp:99
+#: translate_tmp:93
+msgid "Text:"
+msgstr "පාඨ"
+
+#: translate_tmp:106
+#: translate_tmp:112
+#: translate_tmp:100
+msgid ""
+"There are several wild-cards available, like\n"
+"%Y = year\n"
+"%m = month\n"
+"%d = day\n"
+"%T = time"
+msgstr ""
+"විවිධ ආදේශක පවතී, ඒවානම්,\n"
+"%Y = වර්ශය \n"
+"%m = මාසය \n"
+"%d = දවස\n"
+"%T = වෙලාව"
+
+#: translate_tmp:116
+#: translate_tmp:110
+msgid "Font size:"
+msgstr "අකුරු ප්‍රමාණය:"
+
+#: translate_tmp:120
+#: translate_tmp:114
+msgid "Gravity:"
+msgstr "ගුරුත්වය:"
+
+#: translate_tmp:137
+#: translate_tmp:131
+msgid "Stroke color"
+msgstr "පහර සලකුණේ වර්ණය"
+
+#: translate_tmp:142
+#: translate_tmp:136
+msgid "Choose stroke color"
+msgstr "පහර සලකුණේ වර්ණය තෝරන්න"
+
+#: translate_tmp:45
+msgid "Resize"
+msgstr "ප්‍රතිප්‍රමාණය"
+
+#: translate_tmp:53
+msgid "Resize your screenshot"
+msgstr "රාමුජායාරූපය ප්‍රතිප්‍රමාණනය කරන්න"
+
+#: translate_tmp:71
+msgid "Sepia"
+msgstr "සීපියා"
+
+#: translate_tmp:73
+msgid "Add sepia color toning to the image"
+msgstr "රූපයට සීපියා වර්ණ ගැන්වීම කරන්න"
+
+#: translate_tmp:110
+msgid "Sepia tone"
+msgstr "සීපියා වර්ණ ගැන්වීම"
+
+#: translate_tmp:63
+msgid "Hard Shadow"
+msgstr "තද හෙවනැල්ල"
+
+#: translate_tmp:65
+msgid "Add a shadow to the image on a transparent background"
+msgstr "පාරදෘශ්‍ය පසුබිමක රූපයට හෙවනැල්ලක් එකතු කරන්න"
+
+#: translate_tmp:94
+msgid "Direction"
+msgstr "දිශාව"
+
+#: translate_tmp:110
+#: translate_tmp:117
+msgid "The direction of the shadow"
+msgstr "හෙවනැල්ලේ දිශාව"
+
+#: translate_tmp:121
+msgid "Color"
+msgstr "වර්ණය"
+
+#: translate_tmp:126
+msgid "Choose color"
+msgstr "වර්ණය තෝරන්න"
+
+#: translate_tmp:131
+#: translate_tmp:138
+msgid "The color of the shadow"
+msgstr "සෙවණැල්ලේ වර්ණය"
+
+#: translate_tmp:62
+msgid "Watermark"
+msgstr "දිය සලකුණ"
+
+#: translate_tmp:64
+msgid "Add a custom text watermark to your screenshot"
+msgstr "ඔබගේ දිය සලකුණ සදහා ඔබ කැමති පාඨයක් එකතු කරන්න"

@@ -1,0 +1,64 @@
+#! /usr/bin/env bash
+
+###################################################
+#
+#  Copyright (C) 2008-2013 Mario Kemper <mario.kemper@gmail.com>
+#
+#  This file is part of Shutter.
+#
+#  Shutter is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation; either version 3 of the License, or
+#  (at your option) any later version.
+#
+#  Shutter is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+#
+#  You should have received a copy of the GNU General Public License
+#  along with Shutter; if not, write to the Free Software
+#  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+#
+###################################################
+
+TEXTDOMAIN=shutter-plugins
+TEXTDOMAINDIR=$SHUTTER_INTL
+PLUGIN_NAME=$"Sunk Border"
+PLUGIN_SORT=$"Effect"
+PLUGIN_TIP=$"Add an inverted 3d border to the image"
+PLUGIN_EXT="image/png;image/bmp;image/jpeg"
+
+if [[ "${1}" = "name" ]];then
+   	echo "${PLUGIN_NAME}"
+    exit 0
+elif [[ "${1}" = "sort" ]];then
+    echo "${PLUGIN_SORT}"
+    exit 0
+elif [[ "${1}" = "tip" ]];then
+    echo "${PLUGIN_TIP}"
+    exit 0
+elif [[ "${1}" = "ext" ]];then
+    echo "${PLUGIN_EXT}"
+    exit 0
+fi
+
+FILE="${1}"
+WIDTH="${2}"
+HEIGHT="${3}"
+#FILEYTPE="${4}"
+#GEO="${2}x${3}"
+
+BORDER_SCALE=60
+MIN_BORDER=4
+
+let BORDER=(${WIDTH}+${HEIGHT})/${BORDER_SCALE}
+
+if [[ ${BORDER} -le ${MIN_BORDER} ]];then
+    BORDER=${MIN_BORDER}
+fi
+
+convert "${FILE}" +raise ${BORDER}x${BORDER} \
+"${FILE}"
+       
+exit 0

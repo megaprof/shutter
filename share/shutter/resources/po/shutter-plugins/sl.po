@@ -1,0 +1,514 @@
+# Slovenian translation for shutter
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the shutter package.
+# Andrej Žnidaršič <andrej.znidarsic@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: shutter\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-28 17:52+0100\n"
+"PO-Revision-Date: 2011-05-31 07:13+0000\n"
+"Last-Translator: Andrej Znidarsic <andrej.znidarsic@gmail.com>\n"
+"Language-Team: Slovenian <sl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-12-23 22:44+0000\n"
+"X-Generator: Launchpad (build 17286)\n"
+"X-Poedit-Country: SLOVENIA\n"
+"X-Poedit-Language: Slovenian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: translate_tmp:27
+msgid "Grayscale"
+msgstr "Sivina"
+
+#: translate_tmp:28
+#: translate_tmp:74
+#: translate_tmp:63
+#: translate_tmp:72
+#: translate_tmp:64
+msgid "Effect"
+msgstr "Učinek"
+
+#: translate_tmp:29
+msgid "Turn the image into a grayscale image (256 shades)"
+msgstr "Pretvori sliko v sivino (256 senc)"
+
+#: translate_tmp:27
+msgid "Offset"
+msgstr "Zamik"
+
+#: translate_tmp:29
+msgid "Give the picture an offset with itself as background"
+msgstr "Dodajanje zamika slike z vsebino slike same"
+
+#: translate_tmp:27
+msgid "Raise Border"
+msgstr "Vzdigni rob"
+
+#: translate_tmp:29
+msgid "Raise a rectangular 3d-border"
+msgstr "Vzdigne kvadraten 3d rob"
+
+#: translate_tmp:27
+msgid "Soft Edges"
+msgstr "Mehki robovi"
+
+#: translate_tmp:29
+msgid "Add soft edges around the image"
+msgstr "Okoli slike doda mehke robove"
+
+#: translate_tmp:27
+msgid "Sunk Border"
+msgstr "Potopljen rob"
+
+#: translate_tmp:29
+msgid "Add an inverted 3d border to the image"
+msgstr "Sliki doda obrnjen 3d rob"
+
+#: translate_tmp:27
+msgid "Torned Paper"
+msgstr "Raztrgan papir"
+
+#: translate_tmp:29
+msgid "Add a torn-like border to the image"
+msgstr "Sliki doda raztrgan rob"
+
+#: translate_tmp:27
+msgid "Autocrop"
+msgstr "Samodejno obreži"
+
+#: translate_tmp:28
+#: translate_tmp:49
+msgid "Tool"
+msgstr "Orodje"
+
+#: translate_tmp:29
+msgid "Remove empty borders from the image"
+msgstr "Odstrani prazne robove s slike"
+
+#: translate_tmp:73
+msgid "3D reflection"
+msgstr "3D zrcaljenje"
+
+#: translate_tmp:75
+msgid ""
+"Adds a fading reflection below an image and views it in perspective\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Dreflection/index.php"
+msgstr ""
+"Pod sliko doda pojemajoč odsev in ga prikaže v perspektivi\n"
+"\n"
+"Zasnovano na skripti Freda Weinhausa\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Dreflection/index.php"
+
+#: translate_tmp:104
+#: translate_tmp:133
+#: translate_tmp:127
+msgid "Rotation:"
+msgstr "Vrtenje:"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "Perseptive rotation around left edge of image"
+msgstr "Vrtenje vidika okoli levega robu slike"
+
+#: translate_tmp:122
+msgid "Fade:"
+msgstr "Pojemanje"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "Fade percent for mirror image"
+msgstr "Odstotek pojemanja za zrcalno sliko"
+
+#: translate_tmp:140
+msgid "Opacity:"
+msgstr "Prekrivnost:"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "Opacity percent applied to whole mirror image"
+msgstr "Odstotek prekritvnosti uveljavljen na celotno zrcalno sliko"
+
+#: translate_tmp:158
+msgid "Pef:"
+msgstr "Pef:"
+
+#: translate_tmp:165
+#: translate_tmp:172
+msgid "Perspective exaggeration factor"
+msgstr "Določilo pretiravanja perspektive"
+
+#: translate_tmp:176
+msgid "Gap:"
+msgstr "Razmik:"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid "Gap between image and mirror in pixels"
+msgstr "Razmik med sliko iz zrcalom v točkah"
+
+#: translate_tmp:194
+#: translate_tmp:176
+msgid "Zoom:"
+msgstr "Približanje:"
+
+#: translate_tmp:201
+#: translate_tmp:208
+msgid "Zoom factor for output image"
+msgstr "Določilo približanja za izhodno sliko"
+
+#: translate_tmp:212
+#: translate_tmp:236
+#: translate_tmp:165
+#: translate_tmp:194
+msgid "Background color"
+msgstr "Barva ozadja"
+
+#: translate_tmp:217
+#: translate_tmp:241
+#: translate_tmp:170
+#: translate_tmp:199
+msgid "Choose background color"
+msgstr "Izbor barve ozadja"
+
+#: translate_tmp:423
+#: translate_tmp:459
+#: translate_tmp:363
+#: translate_tmp:399
+#: translate_tmp:259
+#: translate_tmp:328
+#: translate_tmp:257
+#: translate_tmp:314
+#: translate_tmp:315
+#, perl-format
+msgid "Error while executing plugin %s."
+msgstr "Napaka med izvajanjem vstavka %s."
+
+#: translate_tmp:424
+#: translate_tmp:460
+#: translate_tmp:364
+#: translate_tmp:400
+#: translate_tmp:260
+#: translate_tmp:329
+#: translate_tmp:258
+#: translate_tmp:315
+#: translate_tmp:316
+msgid "There was an error executing the plugin."
+msgstr "Prišlo je do napake med izvajanjem vstavka."
+
+#: translate_tmp:73
+msgid "3D rotate"
+msgstr "3D vrtenje"
+
+#: translate_tmp:75
+msgid ""
+"Applies a perspective distortion to an image\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Drotate/index.php"
+msgstr ""
+"Uveljavi popačenje perspektive na sliko\n"
+"\n"
+"Zasnovano na skriptu Freda Weinhausa\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Drotate/index.php"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "Rotation around image vertical centerline"
+msgstr "Vrtenje okoli navpične srednje črte"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "Rotation around image horizontal centerline"
+msgstr "Vrtenje okoli vodoravne srednje črte"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "Rotation around the image center"
+msgstr "Vrtenje okoli središča slike"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid ""
+"Output zoom factor; where value > 1 means zoom in and < 1 means zoom out"
+msgstr ""
+"Določilo približanja izhoda; kjer je vrednost > 1 pomeni približanje in < 1 "
+"pomeni oddaljevanje"
+
+#: translate_tmp:204
+msgid "Auto:"
+msgstr "Samodejno:"
+
+#: translate_tmp:226
+#: translate_tmp:233
+msgid ""
+"off - No automatic adjustment\n"
+"\n"
+"c - Center bounding box in output\n"
+"\n"
+"zc - Zoom to fill and center bounding box in output\n"
+"\n"
+"out - Creates an output image of size needed to hold the transformed image"
+msgstr ""
+"off - brez samodejnega prilagajanja\n"
+"\n"
+"c - Središčenje okvirja v izhodu\n"
+"\n"
+"zc - Približanje do zapolnitve okvirja v izhodu\n"
+"\n"
+"out - Ustvari izhodno sliko velikosti, ki je potrebna za vsebovanje "
+"preoblikovane slike"
+
+#: translate_tmp:243
+msgid "Sky color"
+msgstr "Barva neba"
+
+#: translate_tmp:248
+msgid "Choose sky color"
+msgstr "Izbor barve neba"
+
+#: translate_tmp:62
+msgid "Barrel Distortion"
+msgstr "Popačenje soda"
+
+#: translate_tmp:64
+msgid "Apply a distortion effect to your screenshot"
+msgstr "Uveljavite učinek popačenja na zaslonski posnetek"
+
+#: translate_tmp:93
+msgid "A:"
+msgstr "A:"
+
+#: translate_tmp:97
+msgid "B:"
+msgstr "B:"
+
+#: translate_tmp:101
+msgid "C:"
+msgstr "C:"
+
+#: translate_tmp:105
+msgid "D:"
+msgstr "D:"
+
+#: translate_tmp:112
+#: translate_tmp:119
+#: translate_tmp:126
+#: translate_tmp:133
+#: translate_tmp:140
+#: translate_tmp:147
+#: translate_tmp:154
+#: translate_tmp:161
+msgid ""
+"The parameter d describes the linear scaling of the image. Using d=1, and "
+"a=b=c=0 leaves the image as it is. Choosing other d-values scales the image "
+"by that amount. a,b and c distort the image. Using negative values shifts "
+"distant points away from the center.\n"
+"\n"
+"Defined by Barrel Correction Distortion, by Helmut Dersch.\n"
+"http://www.all-in-one.ee/~dersch/barrel/barrel.html"
+msgstr ""
+"Parameter d določa linearno povečavo slike. Uporaba d=1 a=b=c=0 pusti sliko "
+"takšno kot je. Izbira drugih d vrednosti spremeni velikost slike za to "
+"količino. a, b in c popačijo sliko. Negativne vrednosti premakne oddaljene "
+"točke vstran od središča.\n"
+"\n"
+"Določeno z distribucijo popravka soda, Helmuta Derscha.\n"
+"http://www.all-in-one.ee/~dersch/barrel/barrel.html"
+
+#: translate_tmp:73
+msgid "Bordereffects"
+msgstr "Učinki robu"
+
+#: translate_tmp:75
+msgid ""
+"Create various dispersion-like effects in the border of an image\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/bordereffects/index.php"
+msgstr ""
+"Ustvari različne učinke podobne disperziji na robu slike\n"
+"\n"
+"Zasnovano na skriptu Freda Weinhausa\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/bordereffects/index.php"
+
+#: translate_tmp:104
+msgid "Size:"
+msgstr "Velikost:"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "The size or dimension of the border region"
+msgstr "Velikost robnega območja"
+
+#: translate_tmp:122
+msgid "Density:"
+msgstr "Gostota:"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "The frequency of detail in the border"
+msgstr "Frekvenca podrobnosti robu"
+
+#: translate_tmp:140
+msgid "Curviness:"
+msgstr "Ukrivljenost:"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "The curviness in the border features"
+msgstr "Ukrivljenost robov"
+
+#: translate_tmp:158
+msgid "Granularity:"
+msgstr "Zrnatosto:"
+
+#: translate_tmp:165
+#: translate_tmp:172
+msgid ""
+"The base grain size or pixelization size used to create the detail in the "
+"border"
+msgstr "Osnovna velikost zrn ali točk za ustvarjanje podrobnosti na robu"
+
+#: translate_tmp:176
+msgid "Pad:"
+msgstr "Robna barva:"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid "The pad size of constant color around the perimeter of the border"
+msgstr "Velikost robu barve okoli roba slike"
+
+#: translate_tmp:62
+msgid "Negate"
+msgstr "Negativ"
+
+#: translate_tmp:64
+msgid "Invert the colors of the image"
+msgstr "Obračanje barv slike v barve negativa"
+
+#: translate_tmp:101
+msgid "Channel"
+msgstr "Kanal"
+
+#: translate_tmp:62
+msgid "Polaroid"
+msgstr "Polaroid"
+
+#: translate_tmp:64
+msgid ""
+"Make your screenshot look like a polaroid photo, add a caption, and even "
+"rotate it a little"
+msgstr ""
+"Oblikujte zaslonski posnetek kot fotografijo iz polaroidnega fotoaparata, "
+"dodajte naslov in jo po želji tudi malo zavrtite"
+
+#: translate_tmp:99
+#: translate_tmp:93
+msgid "Text:"
+msgstr "Besedilo:"
+
+#: translate_tmp:106
+#: translate_tmp:112
+#: translate_tmp:100
+msgid ""
+"There are several wild-cards available, like\n"
+"%Y = year\n"
+"%m = month\n"
+"%d = day\n"
+"%T = time"
+msgstr ""
+"Na voljo je več nadomestnih znakov kot\n"
+"%Y = leto\n"
+"%m = mesec\n"
+"%d = dan\n"
+"%T = čas"
+
+#: translate_tmp:116
+#: translate_tmp:110
+msgid "Font size:"
+msgstr "Velikost pisave:"
+
+#: translate_tmp:120
+#: translate_tmp:114
+msgid "Gravity:"
+msgstr "Težnost:"
+
+#: translate_tmp:137
+#: translate_tmp:131
+msgid "Stroke color"
+msgstr "Barva poteze"
+
+#: translate_tmp:142
+#: translate_tmp:136
+msgid "Choose stroke color"
+msgstr "Izbor barve poteze"
+
+#: translate_tmp:45
+msgid "Resize"
+msgstr "Spremeni velikost"
+
+#: translate_tmp:53
+msgid "Resize your screenshot"
+msgstr "Spremeni velikost vašega zaslonskega posnetka"
+
+#: translate_tmp:71
+msgid "Sepia"
+msgstr "Sepia"
+
+#: translate_tmp:73
+msgid "Add sepia color toning to the image"
+msgstr "Sliki doda sepia učinek staranja"
+
+#: translate_tmp:110
+msgid "Sepia tone"
+msgstr "Sepia učinek staranja"
+
+#: translate_tmp:63
+msgid "Hard Shadow"
+msgstr "Trda senca"
+
+#: translate_tmp:65
+msgid "Add a shadow to the image on a transparent background"
+msgstr "Sliki na prozornemu ozadju doda senco slike"
+
+#: translate_tmp:94
+msgid "Direction"
+msgstr "Smer"
+
+#: translate_tmp:110
+#: translate_tmp:117
+msgid "The direction of the shadow"
+msgstr "Smer sence"
+
+#: translate_tmp:121
+msgid "Color"
+msgstr "Barva"
+
+#: translate_tmp:126
+msgid "Choose color"
+msgstr "Izbor barve"
+
+#: translate_tmp:131
+#: translate_tmp:138
+msgid "The color of the shadow"
+msgstr "Barva sence"
+
+#: translate_tmp:62
+msgid "Watermark"
+msgstr "Vodni žig"
+
+#: translate_tmp:64
+msgid "Add a custom text watermark to your screenshot"
+msgstr "Vašemu zaslonskemu posnetku doda vodni žig z besedilom po meri"

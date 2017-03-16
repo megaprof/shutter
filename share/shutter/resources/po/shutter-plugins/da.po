@@ -1,0 +1,511 @@
+# Danish translation for gscrot-plugins-bash
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the gscrot-plugins-bash package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gscrot-plugins-bash\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-28 17:52+0100\n"
+"PO-Revision-Date: 2011-06-15 13:42+0000\n"
+"Last-Translator: Aputsiaĸ Niels Janussen <aj@isit.gl>\n"
+"Language-Team: Danish <da@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-12-23 22:44+0000\n"
+"X-Generator: Launchpad (build 17286)\n"
+
+#: translate_tmp:27
+msgid "Grayscale"
+msgstr "Gråtoner"
+
+#: translate_tmp:28
+#: translate_tmp:74
+#: translate_tmp:63
+#: translate_tmp:72
+#: translate_tmp:64
+msgid "Effect"
+msgstr "Effekt"
+
+#: translate_tmp:29
+msgid "Turn the image into a grayscale image (256 shades)"
+msgstr "Gør billedet til et billede i gråskala (256 nuancer)"
+
+#: translate_tmp:27
+msgid "Offset"
+msgstr "Forskydning"
+
+#: translate_tmp:29
+msgid "Give the picture an offset with itself as background"
+msgstr "Giv billedet en forskydning med sig selv som baggrund"
+
+#: translate_tmp:27
+msgid "Raise Border"
+msgstr "Hæv kant"
+
+#: translate_tmp:29
+msgid "Raise a rectangular 3d-border"
+msgstr "Hæv en rektangulær 3d-kant"
+
+#: translate_tmp:27
+msgid "Soft Edges"
+msgstr "Bløde skygger"
+
+#: translate_tmp:29
+msgid "Add soft edges around the image"
+msgstr "Tilføj bløde kanter på billedet"
+
+#: translate_tmp:27
+msgid "Sunk Border"
+msgstr "Sænket kant"
+
+#: translate_tmp:29
+msgid "Add an inverted 3d border to the image"
+msgstr "Føj en indadvendt 3D-kant til billedet"
+
+#: translate_tmp:27
+msgid "Torned Paper"
+msgstr "Iturevet papir"
+
+#: translate_tmp:29
+msgid "Add a torn-like border to the image"
+msgstr "Føj en itu-lignende kant til billedet"
+
+#: translate_tmp:27
+msgid "Autocrop"
+msgstr "Autobeskær"
+
+#: translate_tmp:28
+#: translate_tmp:49
+msgid "Tool"
+msgstr "Værktøj"
+
+#: translate_tmp:29
+msgid "Remove empty borders from the image"
+msgstr "Fjern tomme kanter fra billedet"
+
+#: translate_tmp:73
+msgid "3D reflection"
+msgstr "3D-reflektion"
+
+#: translate_tmp:75
+msgid ""
+"Adds a fading reflection below an image and views it in perspective\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Dreflection/index.php"
+msgstr ""
+"Føjer en aftagende reflektion under et billede og viser det i perspektiv\n"
+"\n"
+"Baseret på et skript af Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Dreflection/index.php"
+
+#: translate_tmp:104
+#: translate_tmp:133
+#: translate_tmp:127
+msgid "Rotation:"
+msgstr "Rotation:"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "Perseptive rotation around left edge of image"
+msgstr "Perspektiv-rotation omkring venstre kant af billede"
+
+#: translate_tmp:122
+msgid "Fade:"
+msgstr "Falmen:"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "Fade percent for mirror image"
+msgstr "Falme-procent for spejlbillede"
+
+#: translate_tmp:140
+msgid "Opacity:"
+msgstr "Uigennemsighed:"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "Opacity percent applied to whole mirror image"
+msgstr "Uigennemsigtighedsprocent anvendt på hele spejlbilled"
+
+#: translate_tmp:158
+msgid "Pef:"
+msgstr "Pef:"
+
+#: translate_tmp:165
+#: translate_tmp:172
+msgid "Perspective exaggeration factor"
+msgstr "Perspektiv-overdrivelsesfaktor"
+
+#: translate_tmp:176
+msgid "Gap:"
+msgstr "Mellemrum:"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid "Gap between image and mirror in pixels"
+msgstr "Mellemrum mellem billede og spejling i pixels"
+
+#: translate_tmp:194
+#: translate_tmp:176
+msgid "Zoom:"
+msgstr "Zoom:"
+
+#: translate_tmp:201
+#: translate_tmp:208
+msgid "Zoom factor for output image"
+msgstr "Zoom-faktor for output-billede"
+
+#: translate_tmp:212
+#: translate_tmp:236
+#: translate_tmp:165
+#: translate_tmp:194
+msgid "Background color"
+msgstr "Baggrundsfarve"
+
+#: translate_tmp:217
+#: translate_tmp:241
+#: translate_tmp:170
+#: translate_tmp:199
+msgid "Choose background color"
+msgstr "Vælg baggrundsfarve"
+
+#: translate_tmp:423
+#: translate_tmp:459
+#: translate_tmp:363
+#: translate_tmp:399
+#: translate_tmp:259
+#: translate_tmp:328
+#: translate_tmp:257
+#: translate_tmp:314
+#: translate_tmp:315
+#, perl-format
+msgid "Error while executing plugin %s."
+msgstr "Fejl under afvikling af udvidelse %s."
+
+#: translate_tmp:424
+#: translate_tmp:460
+#: translate_tmp:364
+#: translate_tmp:400
+#: translate_tmp:260
+#: translate_tmp:329
+#: translate_tmp:258
+#: translate_tmp:315
+#: translate_tmp:316
+msgid "There was an error executing the plugin."
+msgstr "Der var en fejl under afvikling af udvidelsen."
+
+#: translate_tmp:73
+msgid "3D rotate"
+msgstr "3D rotation"
+
+#: translate_tmp:75
+msgid ""
+"Applies a perspective distortion to an image\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Drotate/index.php"
+msgstr ""
+"Tilfører en perspektivforvrængning til et billede\n"
+"\n"
+"Baseret på et skript af Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Drotate/index.php"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "Rotation around image vertical centerline"
+msgstr "Rotation omkring billedets lodrette centerlinje"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "Rotation around image horizontal centerline"
+msgstr "Rotation omkring billede vandrette centerlinje"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "Rotation around the image center"
+msgstr "Rotation omkring billedets centrum"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid ""
+"Output zoom factor; where value > 1 means zoom in and < 1 means zoom out"
+msgstr "Zoom faktor; hvor værdi > 1 betyder zoom ind og < 1 betyder zoom ud"
+
+#: translate_tmp:204
+msgid "Auto:"
+msgstr "Auto:"
+
+#: translate_tmp:226
+#: translate_tmp:233
+msgid ""
+"off - No automatic adjustment\n"
+"\n"
+"c - Center bounding box in output\n"
+"\n"
+"zc - Zoom to fill and center bounding box in output\n"
+"\n"
+"out - Creates an output image of size needed to hold the transformed image"
+msgstr ""
+"fra - Ingen automatisk tilpasning\n"
+"\n"
+"c  - Centrer omgivende boks i resultat\n"
+"\n"
+"zc - Zoom for at fylde og centrere omgivende boks i resultat\n"
+"\n"
+"out - Skaber et billedresultat i den størrelse som kræves for at holde det "
+"ændrede billede"
+
+#: translate_tmp:243
+msgid "Sky color"
+msgstr "Sky farve"
+
+#: translate_tmp:248
+msgid "Choose sky color"
+msgstr "Vælg sky farve"
+
+#: translate_tmp:62
+msgid "Barrel Distortion"
+msgstr "Tøndeforvrængning"
+
+#: translate_tmp:64
+msgid "Apply a distortion effect to your screenshot"
+msgstr "Tilføj en forvrængningseffekt til dit screenshot"
+
+#: translate_tmp:93
+msgid "A:"
+msgstr "A:"
+
+#: translate_tmp:97
+msgid "B:"
+msgstr "B:"
+
+#: translate_tmp:101
+msgid "C:"
+msgstr "C:"
+
+#: translate_tmp:105
+msgid "D:"
+msgstr "D:"
+
+#: translate_tmp:112
+#: translate_tmp:119
+#: translate_tmp:126
+#: translate_tmp:133
+#: translate_tmp:140
+#: translate_tmp:147
+#: translate_tmp:154
+#: translate_tmp:161
+msgid ""
+"The parameter d describes the linear scaling of the image. Using d=1, and "
+"a=b=c=0 leaves the image as it is. Choosing other d-values scales the image "
+"by that amount. a,b and c distort the image. Using negative values shifts "
+"distant points away from the center.\n"
+"\n"
+"Defined by Barrel Correction Distortion, by Helmut Dersch.\n"
+"http://www.all-in-one.ee/~dersch/barrel/barrel.html"
+msgstr ""
+"Parameteren d beskriver den lineære skalering af billedet. Bruges d=1, og "
+"a=b=c=0 bevares billede som det er. Vælges andre d-værdier skaleres billedet "
+"med denne angivelse. a, b og c forvrænger billedet. Brug af negative værdier "
+"skifter sigtepunkterne væk fra centrum.\n"
+"\n"
+"Defineret af Barrel Correction Distortion, ved Helmut Dersch.\n"
+"http://www.all-in-one.ee/~dersch/barrel/barrel.html"
+
+#: translate_tmp:73
+msgid "Bordereffects"
+msgstr "Kanteffekter"
+
+#: translate_tmp:75
+msgid ""
+"Create various dispersion-like effects in the border of an image\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/bordereffects/index.php"
+msgstr ""
+"Opretter forskellige findelingslignende effekter i kanten af et billede\n"
+"\n"
+"Baseret på et skript af Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/bordereffects/index.php"
+
+#: translate_tmp:104
+msgid "Size:"
+msgstr "Størrelse:"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "The size or dimension of the border region"
+msgstr "Størrelsen eller dimensionen på kantområdet"
+
+#: translate_tmp:122
+msgid "Density:"
+msgstr "Tæthed:"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "The frequency of detail in the border"
+msgstr "Frekvensen af detaljer i kanten"
+
+#: translate_tmp:140
+msgid "Curviness:"
+msgstr "Kurvehældning:"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "The curviness in the border features"
+msgstr "Kurvehældningen i kantens egenskaber"
+
+#: translate_tmp:158
+msgid "Granularity:"
+msgstr "Granularitet:"
+
+#: translate_tmp:165
+#: translate_tmp:172
+msgid ""
+"The base grain size or pixelization size used to create the detail in the "
+"border"
+msgstr ""
+"Størrelsen på basiskorn eller pikseleringsstørrelsen brugt til at oprette "
+"detaljen i kanten"
+
+#: translate_tmp:176
+msgid "Pad:"
+msgstr "Plade:"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid "The pad size of constant color around the perimeter of the border"
+msgstr "Størrelse på pladen af konstantfarven omkring omkredsen af kanten"
+
+#: translate_tmp:62
+msgid "Negate"
+msgstr "Negativ"
+
+#: translate_tmp:64
+msgid "Invert the colors of the image"
+msgstr "Omvend farverne fra billedet"
+
+#: translate_tmp:101
+msgid "Channel"
+msgstr "Kanal"
+
+#: translate_tmp:62
+msgid "Polaroid"
+msgstr "Polaroid"
+
+#: translate_tmp:64
+msgid ""
+"Make your screenshot look like a polaroid photo, add a caption, and even "
+"rotate it a little"
+msgstr ""
+"Få dit skærmbillede til at ligne et polaroidfoto, tilføj en billedtekst, og "
+"rotér endda det en smule"
+
+#: translate_tmp:99
+#: translate_tmp:93
+msgid "Text:"
+msgstr "Tekst:"
+
+#: translate_tmp:106
+#: translate_tmp:112
+#: translate_tmp:100
+msgid ""
+"There are several wild-cards available, like\n"
+"%Y = year\n"
+"%m = month\n"
+"%d = day\n"
+"%T = time"
+msgstr ""
+"Der er adskillige jokertegn tilgængelige, så som\n"
+"%Y = år\n"
+"%m = måned\n"
+"%d = dag\n"
+"%T = tid"
+
+#: translate_tmp:116
+#: translate_tmp:110
+msgid "Font size:"
+msgstr "Skriftstørrelse:"
+
+#: translate_tmp:120
+#: translate_tmp:114
+msgid "Gravity:"
+msgstr "Tyngdekraft:"
+
+#: translate_tmp:137
+#: translate_tmp:131
+msgid "Stroke color"
+msgstr "Stregfarve"
+
+#: translate_tmp:142
+#: translate_tmp:136
+msgid "Choose stroke color"
+msgstr "Vælg stregfarve"
+
+#: translate_tmp:45
+msgid "Resize"
+msgstr "Tilpas størrelse"
+
+#: translate_tmp:53
+msgid "Resize your screenshot"
+msgstr "Tilpas størrelse på skærmbillede"
+
+#: translate_tmp:71
+msgid "Sepia"
+msgstr "Sepia"
+
+#: translate_tmp:73
+msgid "Add sepia color toning to the image"
+msgstr "Føj sepia-farvetoning til billedet"
+
+#: translate_tmp:110
+msgid "Sepia tone"
+msgstr "Sepia tone"
+
+#: translate_tmp:63
+msgid "Hard Shadow"
+msgstr "Hård skygge"
+
+#: translate_tmp:65
+msgid "Add a shadow to the image on a transparent background"
+msgstr "Tilføj en skygge til billedet på en gennemsigtig baggrund"
+
+#: translate_tmp:94
+msgid "Direction"
+msgstr "Retning"
+
+#: translate_tmp:110
+#: translate_tmp:117
+msgid "The direction of the shadow"
+msgstr "Skyggens retning"
+
+#: translate_tmp:121
+msgid "Color"
+msgstr "Farve"
+
+#: translate_tmp:126
+msgid "Choose color"
+msgstr "Vælg farve"
+
+#: translate_tmp:131
+#: translate_tmp:138
+msgid "The color of the shadow"
+msgstr "Farve på skyggen"
+
+#: translate_tmp:62
+msgid "Watermark"
+msgstr "Vandmærke"
+
+#: translate_tmp:64
+msgid "Add a custom text watermark to your screenshot"
+msgstr "Føj et selvvalgt tekstvandmærke til dit skærmbillede"

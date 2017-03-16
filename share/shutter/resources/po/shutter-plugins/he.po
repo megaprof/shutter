@@ -1,0 +1,495 @@
+# Hebrew translation for shutter
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the shutter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: shutter\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-28 17:52+0100\n"
+"PO-Revision-Date: 2012-03-14 13:27+0000\n"
+"Last-Translator: Yaron <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-12-23 22:44+0000\n"
+"X-Generator: Launchpad (build 17286)\n"
+
+#: translate_tmp:27
+msgid "Grayscale"
+msgstr "גווני אפור"
+
+#: translate_tmp:28
+#: translate_tmp:74
+#: translate_tmp:63
+#: translate_tmp:72
+#: translate_tmp:64
+msgid "Effect"
+msgstr "אפקט"
+
+#: translate_tmp:29
+msgid "Turn the image into a grayscale image (256 shades)"
+msgstr "הפיכת התמונה לתמונה בגווני אפור (256 צללים)"
+
+#: translate_tmp:27
+msgid "Offset"
+msgstr "היסט"
+
+#: translate_tmp:29
+msgid "Give the picture an offset with itself as background"
+msgstr "הסטת התמונה על רקע התמונה עצמה"
+
+#: translate_tmp:27
+msgid "Raise Border"
+msgstr "הגבהת מסגרת"
+
+#: translate_tmp:29
+msgid "Raise a rectangular 3d-border"
+msgstr "הגבהת מסגרת תלת ממדית מרובעת"
+
+#: translate_tmp:27
+msgid "Soft Edges"
+msgstr "קצוות רכים"
+
+#: translate_tmp:29
+msgid "Add soft edges around the image"
+msgstr "הוספת קצוות רכים מסביב לתמונה"
+
+#: translate_tmp:27
+msgid "Sunk Border"
+msgstr "מסגרת שקועה"
+
+#: translate_tmp:29
+msgid "Add an inverted 3d border to the image"
+msgstr "הוספת מסגרת תלת ממדית הפוכה לתמונה"
+
+#: translate_tmp:27
+msgid "Torned Paper"
+msgstr "נייר קרוע"
+
+#: translate_tmp:29
+msgid "Add a torn-like border to the image"
+msgstr "הוספת גבולות דמויי קריעת דף לתמונה"
+
+#: translate_tmp:27
+msgid "Autocrop"
+msgstr "חיתוך אוטומטי"
+
+#: translate_tmp:28
+#: translate_tmp:49
+msgid "Tool"
+msgstr "כלי"
+
+#: translate_tmp:29
+msgid "Remove empty borders from the image"
+msgstr "הסרת מסגרות ריקות מהתמונה"
+
+#: translate_tmp:73
+msgid "3D reflection"
+msgstr "השתקפות תלת ממד"
+
+#: translate_tmp:75
+msgid ""
+"Adds a fading reflection below an image and views it in perspective\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Dreflection/index.php"
+msgstr ""
+
+#: translate_tmp:104
+#: translate_tmp:133
+#: translate_tmp:127
+msgid "Rotation:"
+msgstr "הטייה:"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "Perseptive rotation around left edge of image"
+msgstr ""
+
+#: translate_tmp:122
+msgid "Fade:"
+msgstr "עמעום:"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "Fade percent for mirror image"
+msgstr "אחוז העמעום לתמונת המראה"
+
+#: translate_tmp:140
+msgid "Opacity:"
+msgstr "אטימות:"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "Opacity percent applied to whole mirror image"
+msgstr "אחוז האטימות שחל על כל תמונת המראה"
+
+#: translate_tmp:158
+msgid "Pef:"
+msgstr ""
+
+#: translate_tmp:165
+#: translate_tmp:172
+msgid "Perspective exaggeration factor"
+msgstr "מקדם הגזמת פרספקטיבה"
+
+#: translate_tmp:176
+msgid "Gap:"
+msgstr "מרווח:"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid "Gap between image and mirror in pixels"
+msgstr "המרווח שבין התמונה לבין ההשתקפות שלה בפיקסלים"
+
+#: translate_tmp:194
+#: translate_tmp:176
+msgid "Zoom:"
+msgstr "מרחק מתצוגה:"
+
+#: translate_tmp:201
+#: translate_tmp:208
+msgid "Zoom factor for output image"
+msgstr "מקדם התקריב של תמונת הפלט"
+
+#: translate_tmp:212
+#: translate_tmp:236
+#: translate_tmp:165
+#: translate_tmp:194
+msgid "Background color"
+msgstr "צבע הרקע"
+
+#: translate_tmp:217
+#: translate_tmp:241
+#: translate_tmp:170
+#: translate_tmp:199
+msgid "Choose background color"
+msgstr "בחירת צבע הרקע"
+
+#: translate_tmp:423
+#: translate_tmp:459
+#: translate_tmp:363
+#: translate_tmp:399
+#: translate_tmp:259
+#: translate_tmp:328
+#: translate_tmp:257
+#: translate_tmp:314
+#: translate_tmp:315
+#, perl-format
+msgid "Error while executing plugin %s."
+msgstr "שגיאה בעת הפעלת התוסף %s."
+
+#: translate_tmp:424
+#: translate_tmp:460
+#: translate_tmp:364
+#: translate_tmp:400
+#: translate_tmp:260
+#: translate_tmp:329
+#: translate_tmp:258
+#: translate_tmp:315
+#: translate_tmp:316
+msgid "There was an error executing the plugin."
+msgstr "ארעה שגיאה בהפעלת התוסף."
+
+#: translate_tmp:73
+msgid "3D rotate"
+msgstr "הטייה תלת מימדית"
+
+#: translate_tmp:75
+msgid ""
+"Applies a perspective distortion to an image\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Drotate/index.php"
+msgstr ""
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "Rotation around image vertical centerline"
+msgstr ""
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "Rotation around image horizontal centerline"
+msgstr ""
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "Rotation around the image center"
+msgstr ""
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid ""
+"Output zoom factor; where value > 1 means zoom in and < 1 means zoom out"
+msgstr ""
+"מקדם מרחק התצוגה בפלט; בעוד שערך הגדול מ־1 מייצג התקרבות וערך הקטן מ־1 מייצג "
+"התרחקות"
+
+#: translate_tmp:204
+msgid "Auto:"
+msgstr "אוטומטית:"
+
+#: translate_tmp:226
+#: translate_tmp:233
+msgid ""
+"off - No automatic adjustment\n"
+"\n"
+"c - Center bounding box in output\n"
+"\n"
+"zc - Zoom to fill and center bounding box in output\n"
+"\n"
+"out - Creates an output image of size needed to hold the transformed image"
+msgstr ""
+"off - ללא התאמה אוטומטית\n"
+"\n"
+"c - מירכוז התיבה התוחמת בפלט\n"
+"\n"
+"zc - התקרבות למילוי מרכז התיבה התוחמת בפלט\n"
+"\n"
+"out - יצירת פלט של גודל התמונה הנחוץ לאיחסון התמונה לאחר ההמרה"
+
+#: translate_tmp:243
+msgid "Sky color"
+msgstr "צבע השמיים"
+
+#: translate_tmp:248
+msgid "Choose sky color"
+msgstr "בחירת צבע השמיים"
+
+#: translate_tmp:62
+msgid "Barrel Distortion"
+msgstr ""
+
+#: translate_tmp:64
+msgid "Apply a distortion effect to your screenshot"
+msgstr ""
+
+#: translate_tmp:93
+msgid "A:"
+msgstr "א:"
+
+#: translate_tmp:97
+msgid "B:"
+msgstr "ב:"
+
+#: translate_tmp:101
+msgid "C:"
+msgstr "ג:"
+
+#: translate_tmp:105
+msgid "D:"
+msgstr "ד:"
+
+#: translate_tmp:112
+#: translate_tmp:119
+#: translate_tmp:126
+#: translate_tmp:133
+#: translate_tmp:140
+#: translate_tmp:147
+#: translate_tmp:154
+#: translate_tmp:161
+msgid ""
+"The parameter d describes the linear scaling of the image. Using d=1, and "
+"a=b=c=0 leaves the image as it is. Choosing other d-values scales the image "
+"by that amount. a,b and c distort the image. Using negative values shifts "
+"distant points away from the center.\n"
+"\n"
+"Defined by Barrel Correction Distortion, by Helmut Dersch.\n"
+"http://www.all-in-one.ee/~dersch/barrel/barrel.html"
+msgstr ""
+"הפרמטר ד מציין את שינוי הגודל בצורה קווית של התמונה. על ידי הגדרת ד=1 "
+"ו־\"א=ב=ג=0\" התמונה תשאר כמו שהיא. בחירת ערכי אחרים ל־\"ד\" משנה את גודל "
+"התמונה באותו היחס. א, ב ו־ג מעוותים את התמונה. על ידי שימוש בערכים שליליים "
+"יזוזו הנקודות המרוחקות הרחק מן המרכז.\n"
+"\n"
+"הוגדר על ידי עיוות לתיקון חבית, נכתב על ידי Helmut Dersch.\n"
+"http://www.all-in-one.ee/~dersch/barrel/barrel.html"
+
+#: translate_tmp:73
+msgid "Bordereffects"
+msgstr ""
+
+#: translate_tmp:75
+msgid ""
+"Create various dispersion-like effects in the border of an image\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/bordereffects/index.php"
+msgstr ""
+
+#: translate_tmp:104
+msgid "Size:"
+msgstr "גודל:"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "The size or dimension of the border region"
+msgstr "גודל או ממדי אזור המסגרת"
+
+#: translate_tmp:122
+msgid "Density:"
+msgstr "צפיפות:"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "The frequency of detail in the border"
+msgstr "תדירות הפירוט במסגרת"
+
+#: translate_tmp:140
+msgid "Curviness:"
+msgstr "עקלקלות"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "The curviness in the border features"
+msgstr "העקלקלות במאפייני המסגרת"
+
+#: translate_tmp:158
+msgid "Granularity:"
+msgstr ""
+
+#: translate_tmp:165
+#: translate_tmp:172
+msgid ""
+"The base grain size or pixelization size used to create the detail in the "
+"border"
+msgstr ""
+
+#: translate_tmp:176
+msgid "Pad:"
+msgstr ""
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid "The pad size of constant color around the perimeter of the border"
+msgstr ""
+
+#: translate_tmp:62
+msgid "Negate"
+msgstr "תשליל"
+
+#: translate_tmp:64
+msgid "Invert the colors of the image"
+msgstr "הפיכת צבעי התמונה"
+
+#: translate_tmp:101
+msgid "Channel"
+msgstr "ערוץ"
+
+#: translate_tmp:62
+msgid "Polaroid"
+msgstr "פולרויד"
+
+#: translate_tmp:64
+msgid ""
+"Make your screenshot look like a polaroid photo, add a caption, and even "
+"rotate it a little"
+msgstr ""
+"שינוי כתמונה כדי שתיראה כמו תמונת פולרויד, ניתן גם להוסיף כותרת ואפילו "
+"להטעות מעט"
+
+#: translate_tmp:99
+#: translate_tmp:93
+msgid "Text:"
+msgstr "טקסט:"
+
+#: translate_tmp:106
+#: translate_tmp:112
+#: translate_tmp:100
+msgid ""
+"There are several wild-cards available, like\n"
+"%Y = year\n"
+"%m = month\n"
+"%d = day\n"
+"%T = time"
+msgstr ""
+"ישנם כמה תגיות זמינות\n"
+"%Y = שנה\n"
+"%m = חודש\n"
+"%d = יום\n"
+"%T = שעה"
+
+#: translate_tmp:116
+#: translate_tmp:110
+msgid "Font size:"
+msgstr "גודל הגופן:"
+
+#: translate_tmp:120
+#: translate_tmp:114
+msgid "Gravity:"
+msgstr "כוח המשיכה:"
+
+#: translate_tmp:137
+#: translate_tmp:131
+msgid "Stroke color"
+msgstr "צבע קו המתאר"
+
+#: translate_tmp:142
+#: translate_tmp:136
+msgid "Choose stroke color"
+msgstr "בחירת צבע קו המתאר"
+
+#: translate_tmp:45
+msgid "Resize"
+msgstr "שינוי גודל"
+
+#: translate_tmp:53
+msgid "Resize your screenshot"
+msgstr "שינוי גודל צילום המסך שלך"
+
+#: translate_tmp:71
+msgid "Sepia"
+msgstr ""
+
+#: translate_tmp:73
+msgid "Add sepia color toning to the image"
+msgstr ""
+
+#: translate_tmp:110
+msgid "Sepia tone"
+msgstr "גווני התיישנות"
+
+#: translate_tmp:63
+msgid "Hard Shadow"
+msgstr "צל כבד"
+
+#: translate_tmp:65
+msgid "Add a shadow to the image on a transparent background"
+msgstr "הוספת צל לתמונה על רקע שקוף"
+
+#: translate_tmp:94
+msgid "Direction"
+msgstr "כיוון"
+
+#: translate_tmp:110
+#: translate_tmp:117
+msgid "The direction of the shadow"
+msgstr "כיוון הצל"
+
+#: translate_tmp:121
+msgid "Color"
+msgstr "צבע"
+
+#: translate_tmp:126
+msgid "Choose color"
+msgstr "בחירת צבע"
+
+#: translate_tmp:131
+#: translate_tmp:138
+msgid "The color of the shadow"
+msgstr "צבע הצל"
+
+#: translate_tmp:62
+msgid "Watermark"
+msgstr "סימן מים"
+
+#: translate_tmp:64
+msgid "Add a custom text watermark to your screenshot"
+msgstr "הוספת סימן מים עם טקסט משלך לצילום המסך שלך"

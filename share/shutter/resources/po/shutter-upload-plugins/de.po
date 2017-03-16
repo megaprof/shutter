@@ -1,0 +1,107 @@
+# German translation for shutter
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the shutter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: shutter\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-11-20 21:47+0100\n"
+"PO-Revision-Date: 2014-11-06 13:22+0000\n"
+"Last-Translator: Tobias Bannert <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-12-23 22:44+0000\n"
+"X-Generator: Launchpad (build 17286)\n"
+
+#: translate_tmp:45
+msgid "Upload screenshots into your Dropbox"
+msgstr "Bildschirmfotos in Ihre Dropbox hochladen"
+
+#: translate_tmp:123
+msgid "There was an error receiving the authentication URL."
+msgstr "Fehler beim Empfangen der Legitimierungsadresse."
+
+#: translate_tmp:128
+msgid ""
+"Please click on the button below to authorize with Dropbox. Press 'Apply' "
+"when you are done."
+msgstr ""
+"Bitte auf den Verweis klicken, um die Autorisierung mit Dropbox "
+"durchzuführen. »Anwenden« drücken, wenn der Vorgang abgeschlossen ist."
+
+#: translate_tmp:129
+msgid "Authorize with Dropbox"
+msgstr "Legitimierung mit Dropbox"
+
+#: translate_tmp:132
+msgid "Authorize"
+msgstr "Legitimieren"
+
+#: translate_tmp:142
+msgid "There was an error authenticating with Dropbox."
+msgstr "Fehler bei der Legitimierung mit Dropbox."
+
+#: translate_tmp:212
+msgid ""
+"Maybe you or Dropbox revoked or expired an access token. Please close this "
+"dialog and try again. Your account will be re-authenticated the next time "
+"you upload a file."
+msgstr ""
+"Möglicherweise wurde der Zugangs-Token von Ihnen oder von Dropbox für "
+"ungültig erklärt. Bitte schließen Sie diesen Dialog und versuchen Sie es "
+"erneut. Ihr Zugang wird erneut legitimiert, wenn Sie den nächsten Upload "
+"starten."
+
+#: translate_tmp:44
+msgid "Upload screenshots to imagebanana.com"
+msgstr "Bildschirmfotos zu imagebanana.com hochladen"
+
+#: translate_tmp:44
+msgid "ImageShack is providing free image hosting"
+msgstr "ImageShack ist ein kostenloser Bilderspeicherdienst"
+
+#: translate_tmp:44
+msgid ""
+"Imgur is used to share photos with social networks and online communities, "
+"and has the funniest pictures from all over the Internet"
+msgstr ""
+"Imgur wird genutzt, um Fotos in sozialen Netzwerken und Online-"
+"Gemeinschaften zu tauschen, und es hat die lustigsten Bilder im gesamten "
+"Internet"
+
+#: translate_tmp:44
+msgid ""
+"imm.io is a one-click easy image sharer, perfect if you want to upload an "
+"image to show your friends or link from other sites"
+msgstr ""
+"Imm.io ist eine einfache Einklickplattform zum Tauschen von Bildern. Es "
+"eignet sich perfekt, um ein Bild mit Freunden zu teilen und von anderen "
+"Seiten auf dieses zu verlinken"
+
+#: translate_tmp:44
+msgid "Upload screenshots to itmages.com"
+msgstr "Bildschirmfotos zu itmages.com hochladen"
+
+#: translate_tmp:45
+msgid "Minus is the simplest free file sharing platform online"
+msgstr "Minus ist die einfachste freie Filesharing-Plattform im Netz"
+
+#: translate_tmp:44
+msgid "Upload screenshots to ompldr.org"
+msgstr "Bildschirmfotos zu ompldr.org hochladen"
+
+#: translate_tmp:44
+msgid "Upload screenshots to pix.toile-libre.org"
+msgstr "Bildschirmfotos zu pix.toile-libre.org hochladen"
+
+#: translate_tmp:45
+msgid "TwitPic lets you share media on Twitter in real-time"
+msgstr "TwitPic lässt Sie Ihre Bilder und Videos in Echtzeit weitergeben"
+
+#: translate_tmp:44
+msgid "Upload screenshots to ubuntu-pics.de"
+msgstr "Bildschirmfotos zu ubuntu-pics.de hochladen"

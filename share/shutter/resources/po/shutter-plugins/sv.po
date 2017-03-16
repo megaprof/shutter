@@ -1,0 +1,515 @@
+# Swedish translation for gscrot-plugins-bash
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the gscrot-plugins-bash package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gscrot-plugins-bash\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-10-28 17:52+0100\n"
+"PO-Revision-Date: 2013-02-27 15:09+0000\n"
+"Last-Translator: Mikael Hiort af Ornäs <lakritslemmel@hotmail.com>\n"
+"Language-Team: Swedish <sv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-12-23 22:44+0000\n"
+"X-Generator: Launchpad (build 17286)\n"
+
+#: translate_tmp:27
+msgid "Grayscale"
+msgstr "Gråskala"
+
+#: translate_tmp:28
+#: translate_tmp:74
+#: translate_tmp:63
+#: translate_tmp:72
+#: translate_tmp:64
+msgid "Effect"
+msgstr "Effekt"
+
+#: translate_tmp:29
+msgid "Turn the image into a grayscale image (256 shades)"
+msgstr "Gör om bilden till en gråskalebild (256 nyanser)"
+
+#: translate_tmp:27
+msgid "Offset"
+msgstr "Förskjutning"
+
+#: translate_tmp:29
+msgid "Give the picture an offset with itself as background"
+msgstr "Ge bilden en förskjutning, med sig själv som bakgrund"
+
+#: translate_tmp:27
+msgid "Raise Border"
+msgstr "Upphöjd kantlinje"
+
+#: translate_tmp:29
+msgid "Raise a rectangular 3d-border"
+msgstr "Visa en upphöjd, rektangulär kantlinje i 3D"
+
+#: translate_tmp:27
+msgid "Soft Edges"
+msgstr "Mjuka kanter"
+
+#: translate_tmp:29
+msgid "Add soft edges around the image"
+msgstr "Lägg till mjuka kanter runt bilden"
+
+#: translate_tmp:27
+msgid "Sunk Border"
+msgstr "Nedsänkt kantlinje"
+
+#: translate_tmp:29
+msgid "Add an inverted 3d border to the image"
+msgstr "Lägg till en nedsänkt 3D-kantlinje i bilden"
+
+#: translate_tmp:27
+msgid "Torned Paper"
+msgstr "Avrivet papper"
+
+#: translate_tmp:29
+msgid "Add a torn-like border to the image"
+msgstr "Lägg till en kantlinje som liknar avrivet papper i bilden"
+
+#: translate_tmp:27
+msgid "Autocrop"
+msgstr "Beskär automatiskt"
+
+#: translate_tmp:28
+#: translate_tmp:49
+msgid "Tool"
+msgstr "Verktyg"
+
+#: translate_tmp:29
+msgid "Remove empty borders from the image"
+msgstr "Ta bort tomma kantlinjer från bilden"
+
+#: translate_tmp:73
+msgid "3D reflection"
+msgstr "3D-reflektion"
+
+#: translate_tmp:75
+msgid ""
+"Adds a fading reflection below an image and views it in perspective\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Dreflection/index.php"
+msgstr ""
+"Lägger till en tonad reflektion nedanför bilden och visar den i perspektiv\n"
+"\n"
+"Baserat på ett skript av Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Dreflection/index.php"
+
+#: translate_tmp:104
+#: translate_tmp:133
+#: translate_tmp:127
+msgid "Rotation:"
+msgstr "Rotation:"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "Perseptive rotation around left edge of image"
+msgstr "Perseptivrotation runt bildens vänstra kant"
+
+#: translate_tmp:122
+msgid "Fade:"
+msgstr "Tona:"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "Fade percent for mirror image"
+msgstr "Toningsprocent för spegelbild"
+
+#: translate_tmp:140
+msgid "Opacity:"
+msgstr "Ogenomskinlighet:"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "Opacity percent applied to whole mirror image"
+msgstr "Ogenomskinlighet i procent, tillämpad på hela spegelbilden"
+
+#: translate_tmp:158
+msgid "Pef:"
+msgstr "Pöf:"
+
+#: translate_tmp:165
+#: translate_tmp:172
+msgid "Perspective exaggeration factor"
+msgstr "Perspektivöverdriftsfaktor"
+
+#: translate_tmp:176
+msgid "Gap:"
+msgstr "Mellanrum:"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid "Gap between image and mirror in pixels"
+msgstr "Mellanrum mellan bild och spegel, i bildpunkter"
+
+#: translate_tmp:194
+#: translate_tmp:176
+msgid "Zoom:"
+msgstr "Zooma:"
+
+#: translate_tmp:201
+#: translate_tmp:208
+msgid "Zoom factor for output image"
+msgstr "Zoomningsfaktor för utdatabild"
+
+#: translate_tmp:212
+#: translate_tmp:236
+#: translate_tmp:165
+#: translate_tmp:194
+msgid "Background color"
+msgstr "Bakgrundsfärg"
+
+#: translate_tmp:217
+#: translate_tmp:241
+#: translate_tmp:170
+#: translate_tmp:199
+msgid "Choose background color"
+msgstr "Välj bakgrundsfärg"
+
+#: translate_tmp:423
+#: translate_tmp:459
+#: translate_tmp:363
+#: translate_tmp:399
+#: translate_tmp:259
+#: translate_tmp:328
+#: translate_tmp:257
+#: translate_tmp:314
+#: translate_tmp:315
+#, perl-format
+msgid "Error while executing plugin %s."
+msgstr "Fel vid körning av insticksmodulen %s."
+
+#: translate_tmp:424
+#: translate_tmp:460
+#: translate_tmp:364
+#: translate_tmp:400
+#: translate_tmp:260
+#: translate_tmp:329
+#: translate_tmp:258
+#: translate_tmp:315
+#: translate_tmp:316
+msgid "There was an error executing the plugin."
+msgstr "Det uppstod ett fel vid körning av insticksmodulen."
+
+#: translate_tmp:73
+msgid "3D rotate"
+msgstr "3D-rotera"
+
+#: translate_tmp:75
+msgid ""
+"Applies a perspective distortion to an image\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Drotate/index.php"
+msgstr ""
+"Tillämpar en perspektivförvrängning på en bild\n"
+"\n"
+"Baserat på ett skript av Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/3Drotate/index.php"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "Rotation around image vertical centerline"
+msgstr "Rotation kring bildens lodräta mittlinje"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "Rotation around image horizontal centerline"
+msgstr "Rotation kring bildens vågräta mittlinje"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "Rotation around the image center"
+msgstr "Rotation kring bildens mittpunkt"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid ""
+"Output zoom factor; where value > 1 means zoom in and < 1 means zoom out"
+msgstr ""
+"Zoomningsfaktor för utdata där värden > 1 betyder zooma in och värden < 1 "
+"betyder zooma ut"
+
+#: translate_tmp:204
+msgid "Auto:"
+msgstr "Auto:"
+
+#: translate_tmp:226
+#: translate_tmp:233
+msgid ""
+"off - No automatic adjustment\n"
+"\n"
+"c - Center bounding box in output\n"
+"\n"
+"zc - Zoom to fill and center bounding box in output\n"
+"\n"
+"out - Creates an output image of size needed to hold the transformed image"
+msgstr ""
+"off - Ingen automatisk justering\n"
+"\n"
+"c - Centrera avgränsningsrutan i utdata\n"
+"\n"
+"zc - Zooma för att fylla och centrera avgränsningsrutan i utdata\n"
+"\n"
+"out - Skapar en utdatabild med nödvändig storlek för att innehålla den "
+"transformerade bilden"
+
+#: translate_tmp:243
+msgid "Sky color"
+msgstr "Himmelsfärg"
+
+#: translate_tmp:248
+msgid "Choose sky color"
+msgstr "Välj himmelsfärg"
+
+#: translate_tmp:62
+msgid "Barrel Distortion"
+msgstr "Tunnelförvrängning"
+
+#: translate_tmp:64
+msgid "Apply a distortion effect to your screenshot"
+msgstr "Tillämpa en förvrängningseffekt på din skärmbild"
+
+#: translate_tmp:93
+msgid "A:"
+msgstr "A:"
+
+#: translate_tmp:97
+msgid "B:"
+msgstr "B:"
+
+#: translate_tmp:101
+msgid "C:"
+msgstr "C:"
+
+#: translate_tmp:105
+msgid "D:"
+msgstr "D:"
+
+#: translate_tmp:112
+#: translate_tmp:119
+#: translate_tmp:126
+#: translate_tmp:133
+#: translate_tmp:140
+#: translate_tmp:147
+#: translate_tmp:154
+#: translate_tmp:161
+msgid ""
+"The parameter d describes the linear scaling of the image. Using d=1, and "
+"a=b=c=0 leaves the image as it is. Choosing other d-values scales the image "
+"by that amount. a,b and c distort the image. Using negative values shifts "
+"distant points away from the center.\n"
+"\n"
+"Defined by Barrel Correction Distortion, by Helmut Dersch.\n"
+"http://www.all-in-one.ee/~dersch/barrel/barrel.html"
+msgstr ""
+"Parametern d beskriver den linjära skalningen för bilden. Användningen av "
+"d=1 och a=b=c=0 lämnar bilden som den är. Väljs andra d-värden skalas bilden "
+"i enlighet med angivet tal. a,b och c förvränger bilden. Användning av "
+"negativa värden fyttar avlägsna punkter bort från centrum.\n"
+"\n"
+"Definierat av Barrel Correction Distortion, av Helmut Dersch.\n"
+"http://www.all-in-one.ee/~dersch/barrel/barrel.html"
+
+#: translate_tmp:73
+msgid "Bordereffects"
+msgstr "Kantlinjeeffekter"
+
+#: translate_tmp:75
+msgid ""
+"Create various dispersion-like effects in the border of an image\n"
+"\n"
+"Based on a script by Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/bordereffects/index.php"
+msgstr ""
+"Skapa olika ljusbrytningsliknande effekter i bildens kantlinje\n"
+"\n"
+"Baset på ett skript av Fred Weinhaus\n"
+"\n"
+"http://www.fmwconcepts.com/imagemagick/bordereffects/index.php"
+
+#: translate_tmp:104
+msgid "Size:"
+msgstr "Storlek:"
+
+#: translate_tmp:111
+#: translate_tmp:118
+msgid "The size or dimension of the border region"
+msgstr "Kantlinjeområdets storlek eller mått"
+
+#: translate_tmp:122
+msgid "Density:"
+msgstr "Täthet:"
+
+#: translate_tmp:129
+#: translate_tmp:136
+msgid "The frequency of detail in the border"
+msgstr "Detaljtätheten i kantlinjen"
+
+#: translate_tmp:140
+msgid "Curviness:"
+msgstr "Kurvighet:"
+
+#: translate_tmp:147
+#: translate_tmp:154
+msgid "The curviness in the border features"
+msgstr "Kantjinjeelementens kurvighet"
+
+#: translate_tmp:158
+msgid "Granularity:"
+msgstr "Kornighet:"
+
+#: translate_tmp:165
+#: translate_tmp:172
+msgid ""
+"The base grain size or pixelization size used to create the detail in the "
+"border"
+msgstr ""
+"Den grundläggande kornigheten eller bildpunktstorleken som används för att "
+"skapa detaljer i kantlinjen"
+
+#: translate_tmp:176
+msgid "Pad:"
+msgstr "Utfyllnad"
+
+#: translate_tmp:183
+#: translate_tmp:190
+msgid "The pad size of constant color around the perimeter of the border"
+msgstr ""
+"Storleken på den enfärgade utfyllnad som ligger kring kantlinjens yttre "
+"omkrets"
+
+#: translate_tmp:62
+msgid "Negate"
+msgstr "Invertera"
+
+#: translate_tmp:64
+msgid "Invert the colors of the image"
+msgstr "Invertera färgerna i bilden"
+
+#: translate_tmp:101
+msgid "Channel"
+msgstr "Kanal"
+
+#: translate_tmp:62
+msgid "Polaroid"
+msgstr "Polaroid"
+
+#: translate_tmp:64
+msgid ""
+"Make your screenshot look like a polaroid photo, add a caption, and even "
+"rotate it a little"
+msgstr ""
+"Du kan få din skärmbild att likna ett polaroidfotografi, lägga till en "
+"bildtext och t.o.m. rotera bilden en smula"
+
+#: translate_tmp:99
+#: translate_tmp:93
+msgid "Text:"
+msgstr "Text:"
+
+#: translate_tmp:106
+#: translate_tmp:112
+#: translate_tmp:100
+msgid ""
+"There are several wild-cards available, like\n"
+"%Y = year\n"
+"%m = month\n"
+"%d = day\n"
+"%T = time"
+msgstr ""
+"Det finns flera specialtecken tillgängliga såsom\n"
+"%Y = år\n"
+"%m = månad\n"
+"%d = dag\n"
+"%T = tid"
+
+#: translate_tmp:116
+#: translate_tmp:110
+msgid "Font size:"
+msgstr "Teckenstorlek:"
+
+#: translate_tmp:120
+#: translate_tmp:114
+msgid "Gravity:"
+msgstr "Gravitering:"
+
+#: translate_tmp:137
+#: translate_tmp:131
+msgid "Stroke color"
+msgstr "Penselfärg"
+
+#: translate_tmp:142
+#: translate_tmp:136
+msgid "Choose stroke color"
+msgstr "Välj penselfärg"
+
+#: translate_tmp:45
+msgid "Resize"
+msgstr "Ändra storlek"
+
+#: translate_tmp:53
+msgid "Resize your screenshot"
+msgstr "Storleksändra din skärmbild"
+
+#: translate_tmp:71
+msgid "Sepia"
+msgstr "Sepia"
+
+#: translate_tmp:73
+msgid "Add sepia color toning to the image"
+msgstr "Lägg till en sepiatoning i bilden"
+
+#: translate_tmp:110
+msgid "Sepia tone"
+msgstr "Sepiaton"
+
+#: translate_tmp:63
+msgid "Hard Shadow"
+msgstr "Hårdskugga"
+
+#: translate_tmp:65
+msgid "Add a shadow to the image on a transparent background"
+msgstr "Lägg till en skugga till bilden, mot en genomskinlig bakgrund"
+
+#: translate_tmp:94
+msgid "Direction"
+msgstr "Riktning"
+
+#: translate_tmp:110
+#: translate_tmp:117
+msgid "The direction of the shadow"
+msgstr "Skuggans riktning"
+
+#: translate_tmp:121
+msgid "Color"
+msgstr "Färg"
+
+#: translate_tmp:126
+msgid "Choose color"
+msgstr "Välj färg"
+
+#: translate_tmp:131
+#: translate_tmp:138
+msgid "The color of the shadow"
+msgstr "Skuggans färg"
+
+#: translate_tmp:62
+msgid "Watermark"
+msgstr "Vattenstämpel"
+
+#: translate_tmp:64
+msgid "Add a custom text watermark to your screenshot"
+msgstr "Lägg till en egen textvattenstämpel i din skärmbild"
